@@ -12,6 +12,6 @@ A- added or staged
 C- Commited
 
 git log --oneline => to know current status of saved points
-git status -s => to know current status of unstaged and staged files
+git status -s => to know current status of unstaged and staged files.
 git reset --hard HEAD~1(2,3,4)(to go back to previous commit)
 
